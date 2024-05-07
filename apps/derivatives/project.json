@@ -1,0 +1,9 @@
+{
+  "name": "derivatives",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/derivatives/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project derivatives --web",
+  "targets": {}
+}
